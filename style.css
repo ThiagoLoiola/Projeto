@@ -94,7 +94,6 @@ body * {
 
 #switch button:hover {
   outline: 8px solid var(--highlight-color);
-
 }
 
 #switch span {
@@ -189,7 +188,7 @@ footer {
 }
 
 @keyframes slide-back {
-  from{
+  from {
     left: 50%;
   }
   to {
