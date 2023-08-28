@@ -54,6 +54,7 @@ body * {
 
 #profile img {
   width: 112px;
+  margin: auto;
 }
 
 #profile p {
